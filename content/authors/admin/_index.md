@@ -6,7 +6,7 @@ title: Emma Andrews
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Fellow 
+role: Postdoctoral Research Fellow 
 
 # Organizations/Affiliations to show in About widget
 organizations:
