@@ -46,8 +46,8 @@ social:
 - icon: 
   icon_pack: 
   link: 
-- icon:  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon:  google-scholar
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=i1X__pwAAAAJ&hl=en
 - icon: orcid
   icon_pack: ai
