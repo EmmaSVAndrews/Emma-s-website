@@ -1,4 +1,13 @@
-experience:
+---
+# An instance of the Featured widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: experience
+
+# This file represents a page section.
+headless: true
+
+title: Experience
+
   - title: Postdoctoral Research Fellow
     company: Victoria University of Wellington
     company_url: ''
