@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: '06 2006'
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -27,7 +27,7 @@ experience:
     company_url:
     company_logo: 
     location: Wellington, NZ
-    date_start: '2020-01'
+    date_start: '01 2020'
     date_end: ''
     description: |2-
         Research experience:
@@ -41,8 +41,8 @@ experience:
     company_url:
     company_logo: 
     location: Hamilton, NZ
-    date_start: '2013-10'
-    date_end: '2019-12'
+    date_start: '10 2013'
+    date_end: '12 2019'
     description: |2-
         Research experience:
         * Ancestral protein reconstruction
