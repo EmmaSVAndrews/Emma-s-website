@@ -27,7 +27,7 @@ experience:
     company_url:
     company_logo: 
     location: "Wellington, NZ"
-    date_start: "Jan 2020"
+    date_start: 'Jan 2020'
     date_end: 
     description: |2-
         "Research experience:"
@@ -42,8 +42,8 @@ experience:
     company_url:
     company_logo: 
     location: "Hamilton, NZ"
-    date_start: "Oct 2013"
-    date_end: "Dec 2019"
+    date_start: 'Oct 2013'
+    date_end: 'Dec 2019'
     description: |2-
         "Research experience:"
         * "Ancestral protein reconstruction"
