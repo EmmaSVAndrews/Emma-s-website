@@ -21,39 +21,39 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: emma.andrews@vuw.ac.nz
-phone:
-address:
-  street: 
-  city: 
-  region:
-  postcode: 
-  country: 
-  country_code: 
-coordinates:
+# phone:
+# address:
+ # street: 
+  #city: 
+  #region:
+ # postcode: 
+ # country: 
+  #country_code: 
+#coordinates:
   latitude: 
   longitude:
-directions: 
-office_hours:
+#directions: 
+#office_hours:
   
   
-appointment_url: 
-contact_links:
-  - icon: 
-    icon_pack: 
-    name: 
-    link: 
-  - icon: 
-    icon_pack: 
-    name: 
-    link: 
-  - icon: 
-    icon_pack: 
-    name:
-    link: 
-  - icon: 
-    icon_pack: 
-    name: 
-    link:
+#appointment_url: 
+#contact_links:
+ # - icon: 
+  #  icon_pack: 
+   # name: 
+    #link: 
+  #- icon: 
+   # icon_pack: 
+    #name: 
+    #link: 
+  #- icon: 
+   # icon_pack: 
+    #name:
+    #link: 
+  #- icon: 
+   # icon_pack: 
+    #name: 
+    #link:
 
 # Site header
 
