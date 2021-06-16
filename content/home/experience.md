@@ -1,20 +1,6 @@
----
-# An instance of the Experience widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: experience
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 40
-
-title: experience
-subtitle:
-
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: '06-2006'
+date_format: Jan 2006
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -24,36 +10,23 @@ date_format: '06-2006'
 experience:
   - title: Postdoctoral Research Fellow
     company: Victoria University of Wellington
-    company_url:
-    company_logo: 
+    company_url: ''
+    company_logo: org-gc
     location: Wellington, NZ
-    date_start: '01-2020'
+    date_start: '2019-03-01'
     date_end: ''
     description: |2-
-        Research experience:
-        * Enzyme engineering
-        * Enzyme kinetics
-        * Enzyme evolution
-        * Pathway modelling
-        * Analytical chemistry - HPLC and MS      
-  - title: Postdoctoral Research Fellow
-    company: University of Waikato
-    company_url:
-    company_logo: 
-    location: Hamilton, NZ
-    date_start: '10-2013'
-    date_end: '12-2019'
-    description: |2-
-        Research experience:
-        * Ancestral protein reconstruction
-        * In vitro protein evolution
-        * Knockin mutagenesis
-        * Knockout phenotype determination
-        * Transcriptomics
-        * Strand displacement polymerase assays
-
-    
-
-design:
-  columns: '2'
----
+        Responsibilities include:
+        
+        * Molecular Biology/Microbiology
+        * Enzyme Engineering
+        * Tissue Culture
+        
+  - title: Professor of Semiconductor Physics
+    company: University X
+    company_url: ''
+    company_logo: org-x
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
