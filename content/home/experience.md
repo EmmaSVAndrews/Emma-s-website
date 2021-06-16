@@ -24,14 +24,13 @@ date_format: Jan 2006
 experience:
   - title: Postdoctoral Research Fellow
     company: "Victoria University of Wellington"
-    company_url: ''
+    company_url:
     company_logo: 
     location: "Wellington, NZ"
     date_start: "January 2020"
     date_end: 
     description: |2-
         Research experience:
-        
         * Enzyme engineering
         * Enzyme kinetics
         * Enzyme evolution
@@ -40,14 +39,13 @@ experience:
         
   - title: Postdoctoral Research Fellow
     company: University of Waikato
-    company_url: ''
+    company_url:
     company_logo: 
     location: "Hamilton, NZ"
     date_start: "October 2013"
     date_end: "December 2019"
     description: |2-
         Research experience:
-
         * Ancestral protein reconstruction
         * In vitro protein evolution
         * Knockin mutagenesis
