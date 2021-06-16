@@ -7,7 +7,7 @@
 
 theme: minimal
 day_night: true
-font: ''
+font: 'My_Font_Set'
 font_size: M
 
 # SEO
