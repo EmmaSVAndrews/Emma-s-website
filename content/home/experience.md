@@ -28,15 +28,14 @@ experience:
     company_logo: 
     location: Wellington, NZ
     date_start: '2020-01'
-    date_end: 
+    date_end: ''
     description: |2-
         Research experience:
         * Enzyme engineering
         * Enzyme kinetics
         * Enzyme evolution
         * Pathway modelling
-        * Analytical chemistry - HPLC and MS
-        
+        * Analytical chemistry - HPLC and MS      
   - title: Postdoctoral Research Fellow
     company: University of Waikato
     company_url:
