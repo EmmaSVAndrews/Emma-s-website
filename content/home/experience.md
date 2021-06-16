@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: 'Jan 2006'
+date_format: Jan 2006
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -22,36 +22,36 @@ date_format: 'Jan 2006'
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: "Postdoctoral Research Fellow"
-    company: "Victoria University of Wellington"
+  - title: Postdoctoral Research Fellow
+    company: Victoria University of Wellington
     company_url:
     company_logo: 
-    location: "Wellington, NZ"
-    date_start: 'Jan 2020'
+    location: Wellington, NZ
+    date_start: '2020-01'
     date_end: 
     description: |2-
-        "Research experience:"
-        * "Enzyme engineering"
-        * "Enzyme kinetics"
-        * "Enzyme evolution"
-        * "Pathway modelling"
-        * "Analytical chemistry - HPLC and MS"
+        Research experience:
+        * Enzyme engineering
+        * Enzyme kinetics
+        * Enzyme evolution
+        * Pathway modelling
+        * Analytical chemistry - HPLC and MS
         
-  - title: "Postdoctoral Research Fellow"
-    company: "University of Waikato"
+  - title: Postdoctoral Research Fellow
+    company: University of Waikato
     company_url:
     company_logo: 
-    location: "Hamilton, NZ"
-    date_start: 'Oct 2013'
-    date_end: 'Dec 2019'
+    location: Hamilton, NZ
+    date_start: '2013-10'
+    date_end: '2019-12'
     description: |2-
-        "Research experience:"
-        * "Ancestral protein reconstruction"
-        * "In vitro protein evolution"
-        * "Knockin mutagenesis"
-        * "Knockout phenotype determination"
-        * "Transcriptomics"
-        * "Strand displacement polymerase assays"
+        Research experience:
+        * Ancestral protein reconstruction
+        * In vitro protein evolution
+        * Knockin mutagenesis
+        * Knockout phenotype determination
+        * Transcriptomics
+        * Strand displacement polymerase assays
 
     
 
