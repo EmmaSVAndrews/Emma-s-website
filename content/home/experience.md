@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Postdoctoral Research Fellow
+  - title: "Postdoctoral Research Fellow"
     company: "Victoria University of Wellington"
     company_url:
     company_logo: 
@@ -30,28 +30,28 @@ experience:
     date_start: "January 2020"
     date_end: 
     description: |2-
-        Research experience:
-        * Enzyme engineering
-        * Enzyme kinetics
-        * Enzyme evolution
-        * Pathway modelling
-        * Analytical chemistry - HPLC and MS
+        "Research experience:"
+        * "Enzyme engineering"
+        * "Enzyme kinetics"
+        * "Enzyme evolution"
+        * "Pathway modelling"
+        * "Analytical chemistry - HPLC and MS"
         
-  - title: Postdoctoral Research Fellow
-    company: University of Waikato
+  - title: "Postdoctoral Research Fellow"
+    company: "University of Waikato"
     company_url:
     company_logo: 
     location: "Hamilton, NZ"
     date_start: "October 2013"
     date_end: "December 2019"
     description: |2-
-        Research experience:
-        * Ancestral protein reconstruction
-        * In vitro protein evolution
-        * Knockin mutagenesis
-        * Knockout phenotype determination
-        * Transcriptomics
-        * Strand displacement polymerase assays
+        "Research experience:"
+        * "Ancestral protein reconstruction"
+        * "In vitro protein evolution"
+        * "Knockin mutagenesis"
+        * "Knockout phenotype determination"
+        * "Transcriptomics"
+        * "Strand displacement polymerase assays"
 
     
 
